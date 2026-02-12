@@ -1,10 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using TaskManagerAPI.Entities;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddDbContext<TaskManagerDBContext>(options =>
+{
+    options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=TaskManagerDB;Trusted_Connection=True;");
+    options.EnableSensitiveDataLogging();
+});
 
 var app = builder.Build();
 
