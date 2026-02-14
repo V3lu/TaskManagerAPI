@@ -6,15 +6,8 @@
       "AbsoluteMoniker": "D:0:0:{7DCDC181-C1C3-4704-BF4E-2DFB7C62F81A}|..\\TaskManagerTests\\TaskManagerTests.csproj|c:\\users\\aethi\\source\\repos\\taskmanagertests\\tests1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\aethi\\source\\repos\\taskmanagerapi\\entities\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:entities\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\aethi\\source\\repos\\taskmanagerapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DCDC181-C1C3-4704-BF4E-2DFB7C62F81A}|..\\TaskManagerTests\\TaskManagerTests.csproj|c:\\users\\aethi\\source\\repos\\taskmanagertests\\taskmanagertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\aethi\\source\\repos\\taskmanagerapi\\dtos\\tasksenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +16,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\aethi\\source\\repos\\taskmanagerapi\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\aethi\\source\\repos\\taskmanagerapi\\entities\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|solutionrelative:entities\\configurations\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCDC181-C1C3-4704-BF4E-2DFB7C62F81A}|..\\TaskManagerTests\\TaskManagerTests.csproj|c:\\users\\aethi\\source\\repos\\taskmanagertests\\taskmanagertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8965ADB-C1C3-8E84-B5BD-52EFBDCFED3C}|TaskManagerAPI.csproj|c:\\users\\aethi\\source\\repos\\taskmanagerapi\\entities\\taskmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,8 +115,12 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TaskManagerTests.csproj",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\TaskManagerTests\\TaskManagerTests.csproj",
               "RelativeDocumentMoniker": "..\\TaskManagerTests\\TaskManagerTests.csproj",
@@ -134,14 +138,14 @@
               "RelativeDocumentMoniker": "..\\TaskManagerTests\\Tests1.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\TaskManagerTests\\Tests1.cs",
               "RelativeToolTip": "..\\TaskManagerTests\\Tests1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA3wCsAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T16:56:38.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TaskConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\TaskManagerAPI\\Entities\\Configurations\\TaskConfiguration.cs",
               "RelativeDocumentMoniker": "Entities\\Configurations\\TaskConfiguration.cs",
@@ -165,39 +169,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\TaskManagerAPI\\Entities\\Task.cs",
               "RelativeDocumentMoniker": "Entities\\Task.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\TaskManagerAPI\\Entities\\Task.cs",
               "RelativeToolTip": "Entities\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T14:42:26.694Z"
+              "WhenOpened": "2026-02-12T14:42:26.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TaskSendDto.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\TaskManagerAPI\\DTOs\\TaskSendDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TaskSendDto.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\TaskManagerAPI\\DTOs\\TaskSendDto.cs",
               "RelativeToolTip": "DTOs\\TaskSendDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T14:41:43.386Z"
+              "WhenOpened": "2026-02-12T14:41:43.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\TaskManagerAPI\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\TaskManagerAPI\\Controllers\\TaskController.cs",
               "RelativeToolTip": "Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T14:38:34.205Z"
+              "WhenOpened": "2026-02-12T14:38:34.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -222,10 +229,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-12T14:22:30.644Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",

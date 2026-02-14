@@ -60,8 +60,8 @@ namespace TaskManagerAPI.Controllers
         {
             try
             {
-                await _dbContext.Tasks.Where(x => x.Id == id).ExecuteUpdateAsync(setter => setter.SetProperty(x => x.IsCompleted, true));
-                return Ok();
+                int updated = await _dbContext.Tasks.Where(x => x.Id == id).ExecuteUpdateAsync(setter => setter.SetProperty(x => x.IsCompleted, true));
+                return Ok(updated);
             }
             catch(Exception ex)
             {
